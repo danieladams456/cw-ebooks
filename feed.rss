@@ -2,192 +2,176 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
    <channel>
       <atom:link href="http://192.168.1.78:8080/" rel="self" type="application/rss+xml" />
-      <title>Riders CW</title>
+      <title>The Rainbow Trail CW</title>
       <description></description>
       <link>http://192.168.1.78:8080/</link>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0000.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0000.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0000.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0000.mp3</link>
          <title>Chapter0000</title>
          <description>Chapter0000</description>
-         <pubDate>Fri, 08 Jul 2022 12:00:12 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0000.mp3" type="audio/mpeg" length="9904193"/>
+         <pubDate>Fri, 29 Jul 2022 11:08:54 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0000.mp3" type="audio/mpeg" length="546"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0001.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0001.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0001.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0001.mp3</link>
          <title>Chapter0001</title>
          <description>Chapter0001</description>
-         <pubDate>Thu, 07 Jul 2022 12:00:16 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0001.mp3" type="audio/mpeg" length="10449526"/>
+         <pubDate>Thu, 28 Jul 2022 11:08:53 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0001.mp3" type="audio/mpeg" length="12446743"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0002.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0002.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0002.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0002.mp3</link>
          <title>Chapter0002</title>
          <description>Chapter0002</description>
-         <pubDate>Wed, 06 Jul 2022 12:00:13 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0002.mp3" type="audio/mpeg" length="11521800"/>
+         <pubDate>Wed, 27 Jul 2022 11:08:52 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0002.mp3" type="audio/mpeg" length="13073160"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0003.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0003.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0003.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0003.mp3</link>
          <title>Chapter0003</title>
          <description>Chapter0003</description>
-         <pubDate>Tue, 05 Jul 2022 12:00:10 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0003.mp3" type="audio/mpeg" length="12498884"/>
+         <pubDate>Tue, 26 Jul 2022 11:08:57 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0003.mp3" type="audio/mpeg" length="11384710"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0004.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0004.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0004.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0004.mp3</link>
          <title>Chapter0004</title>
          <description>Chapter0004</description>
-         <pubDate>Mon, 04 Jul 2022 12:00:17 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0004.mp3" type="audio/mpeg" length="11976644"/>
+         <pubDate>Mon, 25 Jul 2022 11:08:54 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0004.mp3" type="audio/mpeg" length="14655344"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0005.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0005.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0005.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0005.mp3</link>
          <title>Chapter0005</title>
          <description>Chapter0005</description>
-         <pubDate>Sun, 03 Jul 2022 12:00:19 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0005.mp3" type="audio/mpeg" length="15264833"/>
+         <pubDate>Sun, 24 Jul 2022 11:09:00 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0005.mp3" type="audio/mpeg" length="12787171"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0006.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0006.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0006.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0006.mp3</link>
          <title>Chapter0006</title>
          <description>Chapter0006</description>
-         <pubDate>Sat, 02 Jul 2022 12:00:13 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0006.mp3" type="audio/mpeg" length="9642133"/>
+         <pubDate>Sat, 23 Jul 2022 11:09:00 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0006.mp3" type="audio/mpeg" length="12871704"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0007.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0007.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0007.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0007.mp3</link>
          <title>Chapter0007</title>
          <description>Chapter0007</description>
-         <pubDate>Fri, 01 Jul 2022 12:00:14 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0007.mp3" type="audio/mpeg" length="13353506"/>
+         <pubDate>Fri, 22 Jul 2022 11:08:59 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0007.mp3" type="audio/mpeg" length="17457133"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0008.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0008.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0008.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0008.mp3</link>
          <title>Chapter0008</title>
          <description>Chapter0008</description>
-         <pubDate>Thu, 30 Jun 2022 12:00:12 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0008.mp3" type="audio/mpeg" length="14256820"/>
+         <pubDate>Thu, 21 Jul 2022 11:08:53 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0008.mp3" type="audio/mpeg" length="14852517"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0009.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0009.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0009.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0009.mp3</link>
          <title>Chapter0009</title>
          <description>Chapter0009</description>
-         <pubDate>Wed, 29 Jun 2022 12:00:14 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0009.mp3" type="audio/mpeg" length="14389209"/>
+         <pubDate>Wed, 20 Jul 2022 11:08:56 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0009.mp3" type="audio/mpeg" length="2791677"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0010.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0010.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0010.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0010.mp3</link>
          <title>Chapter0010</title>
          <description>Chapter0010</description>
-         <pubDate>Tue, 28 Jun 2022 12:00:14 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0010.mp3" type="audio/mpeg" length="15800657"/>
+         <pubDate>Tue, 19 Jul 2022 11:08:52 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0010.mp3" type="audio/mpeg" length="15550613"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0011.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0011.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0011.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0011.mp3</link>
          <title>Chapter0011</title>
          <description>Chapter0011</description>
-         <pubDate>Mon, 27 Jun 2022 12:00:13 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0011.mp3" type="audio/mpeg" length="14646044"/>
+         <pubDate>Mon, 18 Jul 2022 11:08:53 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0011.mp3" type="audio/mpeg" length="13936873"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0012.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0012.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0012.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0012.mp3</link>
          <title>Chapter0012</title>
          <description>Chapter0012</description>
-         <pubDate>Sun, 26 Jun 2022 12:00:18 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0012.mp3" type="audio/mpeg" length="12636915"/>
+         <pubDate>Sun, 17 Jul 2022 11:08:59 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0012.mp3" type="audio/mpeg" length="15835347"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0013.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0013.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0013.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0013.mp3</link>
          <title>Chapter0013</title>
          <description>Chapter0013</description>
-         <pubDate>Sat, 25 Jun 2022 12:00:14 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0013.mp3" type="audio/mpeg" length="9147061"/>
+         <pubDate>Sat, 16 Jul 2022 11:08:55 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0013.mp3" type="audio/mpeg" length="17345957"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0014.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0014.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0014.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0014.mp3</link>
          <title>Chapter0014</title>
          <description>Chapter0014</description>
-         <pubDate>Fri, 24 Jun 2022 12:00:17 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0014.mp3" type="audio/mpeg" length="18301724"/>
+         <pubDate>Fri, 15 Jul 2022 11:08:53 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0014.mp3" type="audio/mpeg" length="6084673"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0015.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0015.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0015.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0015.mp3</link>
          <title>Chapter0015</title>
          <description>Chapter0015</description>
-         <pubDate>Thu, 23 Jun 2022 12:00:16 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0015.mp3" type="audio/mpeg" length="10368755"/>
+         <pubDate>Thu, 14 Jul 2022 11:09:01 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0015.mp3" type="audio/mpeg" length="20029882"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0016.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0016.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0016.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0016.mp3</link>
          <title>Chapter0016</title>
          <description>Chapter0016</description>
-         <pubDate>Wed, 22 Jun 2022 12:00:15 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0016.mp3" type="audio/mpeg" length="16281310"/>
+         <pubDate>Wed, 13 Jul 2022 11:08:53 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0016.mp3" type="audio/mpeg" length="12514348"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0017.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0017.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0017.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0017.mp3</link>
          <title>Chapter0017</title>
          <description>Chapter0017</description>
-         <pubDate>Tue, 21 Jun 2022 12:00:18 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0017.mp3" type="audio/mpeg" length="15255116"/>
+         <pubDate>Tue, 12 Jul 2022 11:08:59 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0017.mp3" type="audio/mpeg" length="20535821"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0018.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0018.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0018.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0018.mp3</link>
          <title>Chapter0018</title>
          <description>Chapter0018</description>
-         <pubDate>Mon, 20 Jun 2022 12:00:19 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0018.mp3" type="audio/mpeg" length="12677039"/>
+         <pubDate>Mon, 11 Jul 2022 11:08:59 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0018.mp3" type="audio/mpeg" length="6670966"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0019.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0019.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0019.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0019.mp3</link>
          <title>Chapter0019</title>
          <description>Chapter0019</description>
-         <pubDate>Sun, 19 Jun 2022 12:00:17 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0019.mp3" type="audio/mpeg" length="11329748"/>
+         <pubDate>Sun, 10 Jul 2022 11:08:59 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0019.mp3" type="audio/mpeg" length="15180614"/>
       </item>
       <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0020.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0020.mp3</link>
+         <guid>http://192.168.1.78:8080/40wpm/Chapter0020.mp3</guid>
+         <link>http://192.168.1.78:8080/40wpm/Chapter0020.mp3</link>
          <title>Chapter0020</title>
          <description>Chapter0020</description>
-         <pubDate>Sat, 18 Jun 2022 12:00:17 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0020.mp3" type="audio/mpeg" length="16190717"/>
-      </item>
-      <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0021.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0021.mp3</link>
-         <title>Chapter0021</title>
-         <description>Chapter0021</description>
-         <pubDate>Fri, 17 Jun 2022 12:00:15 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0021.mp3" type="audio/mpeg" length="6858838"/>
-      </item>
-      <item>
-         <guid>http://192.168.1.78:8080/38wpm/Chapter0022.mp3</guid>
-         <link>http://192.168.1.78:8080/38wpm/Chapter0022.mp3</link>
-         <title>Chapter0022</title>
-         <description>Chapter0022</description>
-         <pubDate>Thu, 16 Jun 2022 12:00:18 +0000</pubDate>
-         <enclosure url="http://192.168.1.78:8080/38wpm/Chapter0022.mp3" type="audio/mpeg" length="12025441"/>
+         <pubDate>Sat, 09 Jul 2022 11:08:56 +0000</pubDate>
+         <enclosure url="http://192.168.1.78:8080/40wpm/Chapter0020.mp3" type="audio/mpeg" length="4858590"/>
       </item>
    </channel>
 </rss>
