@@ -1,75 +1,4 @@
-The Project Gutenberg eBook of A Room With A View, by E. M. Forster
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
-
-Title: A Room With A View
-
-Author: E. M. Forster
-
-Release Date: May, 2001 [eBook #2641]
-[Most recently updated: October 8, 2022]
-
-Language: English
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK A ROOM WITH A VIEW ***
-
-
-
-
-[Illustration]
-
-
-
-
-A Room With A View
-
-By E. M. Forster
-
-
-
-
-CONTENTS
-
- Part One.
- Chapter I. The Bertolini
- Chapter II. In Santa Croce with No Baedeker
- Chapter III. Music, Violets, and the Letter S
- Chapter IV. Fourth Chapter
- Chapter V. Possibilities of a Pleasant Outing
- Chapter VI. The Reverend Arthur Beebe, the Reverend Cuthbert Eager, Mr. Emerson, Mr. George Emerson, Miss Eleanor Lavish, Miss Charlotte Bartlett, and Miss Lucy Honeychurch Drive Out in Carriages to See a View; Italians Drive Them
- Chapter VII. They Return
-
- Part Two.
- Chapter VIII. Medieval
- Chapter IX. Lucy As a Work of Art
- Chapter X. Cecil as a Humourist
- Chapter XI. In Mrs. Vyse's Well-Appointed Flat
- Chapter XII. Twelfth Chapter
- Chapter XIII. How Miss Bartlett's Boiler Was So Tiresome
- Chapter XIV. How Lucy Faced the External Situation Bravely
- Chapter XV. The Disaster Within
- Chapter XVI. Lying to George
- Chapter XVII. Lying to Cecil
- Chapter XVIII. Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and The Servants
- Chapter XIX. Lying to Mr. Emerson
- Chapter XX. The End of the Middle Ages
-
-
-
-
-PART ONE
-
-
-
-
-Chapter I
+CHAPTER I
 The Bertolini
 
 
@@ -560,7 +489,7 @@ heavily according to her habit, and went to bed.
 
 
 
-Chapter II
+CHAPTER II
 In Santa Croce with No Baedeker
 
 
@@ -1160,7 +1089,7 @@ She joined her cousin.
 
 
 
-Chapter III
+CHAPTER III
 Music, Violets, and the Letter S
 
 
@@ -1547,7 +1476,7 @@ Beethoven.
 
 
 
-Chapter IV
+CHAPTER IV
 Fourth Chapter
 
 
@@ -1830,7 +1759,7 @@ whose roar was suggesting some unexpected melody to her ears.
 
 
 
-Chapter V
+CHAPTER V
 Possibilities of a Pleasant Outing
 
 
@@ -2333,7 +2262,7 @@ over the unpractical suggestion.
 
 
 
-Chapter VI
+CHAPTER VI
 The Reverend Arthur Beebe, the Reverend Cuthbert Eager, Mr. Emerson,
 Mr. George Emerson, Miss Eleanor Lavish, Miss Charlotte Bartlett, and
 Miss Lucy Honeychurch Drive Out in Carriages to See a View; Italians
@@ -2765,7 +2694,7 @@ Bartlett who stood brown against the view.
 
 
 
-Chapter VII
+CHAPTER VII
 They Return
 
 
@@ -3247,7 +3176,7 @@ PART TWO
 
 
 
-Chapter VIII
+CHAPTER VIII
 Medieval
 
 
@@ -3840,7 +3769,7 @@ joy.
 
 
 
-Chapter IX
+CHAPTER IX
 Lucy As a Work of Art
 
 
@@ -4442,7 +4371,7 @@ ever had.
 
 
 
-Chapter X
+CHAPTER X
 Cecil as a Humourist
 
 
@@ -4796,7 +4725,7 @@ bring them to Windy Corner.
 
 
 
-Chapter XI
+CHAPTER XI
 In Mrs. Vyse's Well-Appointed Flat
 
 
@@ -5006,7 +4935,7 @@ Darkness enveloped the flat.
 
 
 
-Chapter XII
+CHAPTER XII
 Twelfth Chapter
 
 
@@ -5450,7 +5379,7 @@ youth.
 
 
 
-Chapter XIII
+CHAPTER XIII
 How Miss Bartlett's Boiler Was So Tiresome
 
 
@@ -5800,7 +5729,7 @@ We don't want no dessert.
 
 
 
-Chapter XIV
+CHAPTER XIV
 How Lucy Faced the External Situation Bravely
 
 
@@ -6058,7 +5987,7 @@ brain.
 
 
 
-Chapter XV
+CHAPTER XV
 The Disaster Within
 
 
@@ -6625,7 +6554,7 @@ reached the upper lawn alone.
 
 
 
-Chapter XVI
+CHAPTER XVI
 Lying to George
 
 
@@ -6977,7 +6906,7 @@ engagement.
 
 
 
-Chapter XVII
+CHAPTER XVII
 Lying to Cecil
 
 
@@ -7215,7 +7144,7 @@ received her, as it had received Miss Bartlett thirty years before.
 
 
 
-Chapter XVIII
+CHAPTER XVIII
 Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and The Servants
 
 
@@ -7872,7 +7801,7 @@ beacon in the roaring tides of darkness.
 
 
 
-Chapter XIX
+CHAPTER XIX
 Lying to Mr. Emerson
 
 
@@ -8537,7 +8466,7 @@ of everything at once.
 
 
 
-Chapter XX
+CHAPTER XX
 The End of the Middle Ages
 
 
